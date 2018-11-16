@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>app.ico</file>
+        <file>Autre.ico</file>
+        <file>Autres.ico</file>
+        <file>gestion.ico</file>
+        <file>Junior Icon 65.ico</file>
+        <file>Junior Icon 66.ico</file>
+        <file>utilisateur.ico</file>
+        <file>writer.ico</file>
+        <file>PCAlerts.ico</file>
+        <file>register.ico</file>
+        <file>liste.ico</file>
+        <file>received_1834160130214459.jpeg</file>
+        <file>ando.jpeg</file>
+        <file>IMG_20180406_131521.JPG</file>
+    </qresource>
+    <qresource prefix="/new/prefix2"/>
+</RCC>
